@@ -1,0 +1,117 @@
+.header{
+    background: #3b5998;
+    width: 100%;
+    height: 85px;
+}
+
+body{
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.logo{
+    width:50%;
+    padding-top: 32px;
+    float: left;
+}
+.login{
+    width: 50%;
+    float: left;
+    padding-top: 10px;
+}
+.logo-text {
+    color: #fff;
+    font-size: xx-large;
+    font-weight: bold;
+    text-decoration: none;
+    font-family:Arial, Helvetica, sans-serif;
+    margin-left: 75px;
+}
+.login-label{
+    color: #fff;
+}
+.login-controls{
+    margin-left: 115px;
+}
+.forgotten{
+    color: #9cb4d8;
+    text-decoration: none;
+    font-size: smaller;
+}
+.sub-btn{
+    background: #4267b2;
+    color: #fff;
+    height: 20px;
+    border-color: #29487d;
+    cursor: pointer;
+}
+.sub-btn:hover{
+    color: cornflowerblue;
+}
+.left-section{
+    width: 50%;
+    float: left;
+    padding-left: 112px;
+    padding-top: 57px;
+
+}
+.right-section{
+    width: 40%;
+    float: left;
+}
+.main-body{
+    background: linear-gradient(white,#D3D8E8);
+    width: 100%;
+    height: 550px;
+}
+.image{
+    width: 518px;
+}
+.para{
+    font-weight: bold;
+    font-size: larger;
+    font-family: SFProDisplay-Regular, Helvetica, Arial, sans-serif;
+}
+.caption{
+    font-family: sans-serif;;
+}
+.name{
+    border-color: #EFE6E4;
+    height: 20px;
+    width: 145px;
+    border-radius: 5px;
+    border-width: thin;
+}
+.no-pw{
+    border-color: #EFE6E4;
+    height: 20px;
+    width: 300px;
+    border-radius: 5px;
+    border-width: thin;
+}
+.labels{
+    color: #aca1a1;
+    font-weight: bold;
+    border-color: #EFE6E4;
+    border-radius: 5px;
+    border-width: thin;
+}
+.policy{
+    text-decoration: none;
+}
+.condition{
+    color: gray;
+    font-size: x-small;
+}
+.help{
+    height: 15px;
+}
+.signup{
+    background: #00a400;
+    color: #fff;
+    height: 31px;
+    font-size: 18px;
+    width: 171px;
+    font-family: auto;
+    border: none;
+    border-radius: 4px;
+}
